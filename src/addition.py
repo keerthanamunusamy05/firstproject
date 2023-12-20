@@ -1,6 +1,5 @@
-#new commit
-#push
-#olihkjgg
+
+#new pull
 def add(a, b):
   return a + b
   
